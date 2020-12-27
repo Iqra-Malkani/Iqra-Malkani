@@ -38,7 +38,7 @@ p{
 }
 
 .top-container{
-  background-color: #fcf7bb;
+background-color: #fcf7bb;
 
 }
 
@@ -57,21 +57,22 @@ p{
 
 
 .middle-container{
-  background-color: #fcf7bb;
+padding-top: 5%;
 
 }
 
 .bottom-container{
 
   margin-top: 30px;
+  background-color: #fcf7bb;
 }
 
 .myskills{
-  color: #1f6f8b;
+  color: #810000;
   font-family: 'Acme', sans-serif;
 }
 
-.skill-font{
+h2{
 color: #1f6f8b;
 font-family: 'Acme', sans-serif;
 
@@ -80,12 +81,15 @@ font-family: 'Acme', sans-serif;
 .skill-show{
 
   font-family: 'Acme', sans-serif;
-  margin: auto;
-  width: 40%;
 
 }
 
-
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
 
 .art-title{
 color: #1f6f8b;
@@ -100,14 +104,35 @@ font-family: 'Acme', sans-serif;
 
 }
 
+
+
+.skill-gif{
+  width: 250px;
+  height: 250px;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.art{
+  width: 275px;
+  height: 275px;
+float: right;
+margin-left: 30px;
+}
+
 .self{
 color: #810000;
-font-family: 'Acme', sans-serif;
+  font-family: 'Dancing Script', cursive;
+  font-size: 35px;
 }
 
 .self-discription{
-  color: #810000;
-  font-family: 'Acme', sans-serif;
+  color: #1f6f8b;
+  font-family: 'Dancing Script', cursive;
+  width: 70%;
+  margin: auto;
+  font-size: 30px;
 
 }
 
