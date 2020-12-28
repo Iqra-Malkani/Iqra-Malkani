@@ -80,13 +80,12 @@ font-family: 'Acme', sans-serif;
 
 .skill-show{
 
-  font-family: 'Acme', sans-serif;
+  font-family: 'Courgette', cursive;
 
 }
 
 .skill-row{
-Width:75%;
- 
+  width: 75%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
@@ -99,7 +98,7 @@ font-family: 'Acme', sans-serif;
 
 .art-discription{
 
-  font-family: 'Acme', sans-serif;
+  font-family: 'Courgette', cursive;
 
 
 
@@ -124,16 +123,16 @@ margin-left: 30px;
 
 .self{
 color: #810000;
-  font-family: 'Dancing Script', cursive;
+font-family: 'Courgette', cursive;
   font-size: 35px;
 }
 
 .self-discription{
   color: #1f6f8b;
-  font-family: 'Dancing Script', cursive;
+font-family: 'Courgette', cursive;
   width: 70%;
   margin: auto;
-  font-size: 30px;
+  font-size: 25px;
 
 }
 
@@ -143,8 +142,8 @@ color: #810000;
 }
 
 .connect{
-    font-family: 'Sacramento', cursive;
-    font-size: 40px;
+font-family: 'Courgette', cursive;
+    font-size: 30px;
 }
 
 .end{
